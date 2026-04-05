@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#06060c"/>
+  <!-- Outer circle -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#d4a843" stroke-width="2" opacity="0.5"/>
+  <!-- Inner circle -->
+  <circle cx="256" cy="256" r="130" fill="none" stroke="#d4a843" stroke-width="1.5" opacity="0.35"/>
+  <!-- Flower of life: central + 6 surrounding circles -->
+  <circle cx="256" cy="256" r="70" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="326" cy="256" r="70" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="291" cy="196.4" r="70" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="221" cy="196.4" r="70" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="186" cy="256" r="70" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="221" cy="315.6" r="70" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="291" cy="315.6" r="70" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.45"/>
+  <!-- Hexagon -->
+  <polygon points="256,186 316.6,221 316.6,291 256,326 195.4,291 195.4,221" fill="none" stroke="#d4a843" stroke-width="2" opacity="0.8"/>
+  <!-- Center dot -->
+  <circle cx="256" cy="256" r="6" fill="#d4a843" opacity="0.9"/>
+  <!-- 6 outer dots -->
+  <circle cx="326" cy="256" r="3.5" fill="#d4a843" opacity="0.6"/>
+  <circle cx="291" cy="196.4" r="3.5" fill="#d4a843" opacity="0.6"/>
+  <circle cx="221" cy="196.4" r="3.5" fill="#d4a843" opacity="0.6"/>
+  <circle cx="186" cy="256" r="3.5" fill="#d4a843" opacity="0.6"/>
+  <circle cx="221" cy="315.6" r="3.5" fill="#d4a843" opacity="0.6"/>
+  <circle cx="291" cy="315.6" r="3.5" fill="#d4a843" opacity="0.6"/>
+</svg>
